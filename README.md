@@ -1,2 +1,7 @@
 # dio-repositorio
-Desafio de Projeto
+## Desafio de Projeto
+Um desafio de projeto de GIT
+## Links uteis
+[Sintaxe basica](www.google.com)
+
+
